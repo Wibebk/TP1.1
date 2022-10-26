@@ -1,0 +1,4 @@
+question 1 : activity_main.xml 
+question 2 : app_name 
+question 3 : AVD Manager
+question 4 : info 
